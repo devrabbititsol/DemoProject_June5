@@ -9,7 +9,7 @@ public static String projectName = "demoproject_latest";
  public static String primaryInfo  = "{\"module_description\":\"desc\","
  + "\"mobile_platform\":null,"
  + "\"report_upload_url\":\"https://smartqe.io:443/UploadReportFile\","
- + "\"repository_commit_message\":\"API on Jenkins\","
+ + "\"repository_commit_message\":\"API on Docker\","
  + "\"browser_type\":null,"
  + "\"project_url\":\"https://maps.googleapis.com/\","
  + "\"jenkins_username\":\"admin\","
@@ -24,7 +24,7 @@ public static String projectName = "demoproject_latest";
  + "\"repository_url\":\"Vvl8DW1e8+K7CCRYoPUdQbs6APB5pHVVEC284LpOJaFTcjmo4xY6kA0OZ/VnVlxiA1xC1klvgxuYRi2lz2aXs/klIe9t9sFN0U5A6iiOjAPbx45pTK8mpIOAnVtWuKAHPRgkr1q+vxhaLZMWFNAgVw==\","
  + "\"sub_module_description\":null,"
  + "\"testcase_name\":\"TC2\","
- + "\"executed_timestamp\":1559737061420,"
+ + "\"executed_timestamp\":1559737075804,"
  + "\"is_execute\":false,"
  + "\"file_name\":null,"
  + "\"aes_secret_key\":\"_SmartQE_SmartQE\","
@@ -38,7 +38,7 @@ public static String projectName = "demoproject_latest";
  + "\"bundle_id\":null,"
  + "\"sub_module_name\":null,"
  + "\"device_os_version\":null,"
- + "\"execution_environment\":\"jenkins\","
+ + "\"execution_environment\":\"docker\","
  + "\"module_name\":\"APIModuleDemo\"}";
 
 
